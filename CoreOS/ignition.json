@@ -1,0 +1,21 @@
+{
+  "ignition": {
+    "config": {},
+    "timeouts": {},
+    "version": "2.1.0"
+  },
+  "networkd": {},
+  "passwd": {
+    "users": [
+      {
+        "groups": ["sudo"],
+        "name": "cpd",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDIneXJRhannHW+R4gpoU+sAJKa7YMER1+seOXe2jWxTXFVGwUYJntWQyGnRK7pYZA7UQbRznavMkpv99KvTry1WHpYmN5msHQi4Wnd/pzjY1jzU2BJCo0zhCu1rh4W6DBdzQCyj1PzwUoeoQCN8OcoofoALjOCk0HUM82zMCWqEsIXbk6VFFWqi5JfVuBFPO1+QPAwU8iYOaEtb+qnXQ6IePxWEsdpCxs8CjYKmQgwUAGl1RwnpuZXw0R5g3h6fIt5zSSVMvOSihwEZr2zyNmqaCUUaF5ML0bPYyJBpnDbmtNtZk1hGh512XOOwy9IZw+9COvpTguG2xuwv9VnvCMJ skolano@sko.dc.prod"
+        ]
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
